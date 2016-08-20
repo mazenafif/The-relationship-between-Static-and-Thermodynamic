@@ -2,7 +2,7 @@ div_The_relationship_between_Consciousness__.html
 Mazen_Ahmad_AfifSubstitute_teacher_Ministry__.html
 Hypotheses_1_Everything_has_a__.html
 div_As_Every_action_has__.html
-div_Peace_is_not_a__.html
+Chapter1_Awareness_of_peace_in__.html
 div_B_Awareness_mechanism_in__.html
 div_determining_human_behavior_br__.html
 div_Apart_from_addressing_the__.html
