@@ -1,7 +1,6 @@
 div_The_relationship_between_Consciousness__.html
 Mazen_Ahmad_AfifSubstitute_teacher_Ministry__.html
 div_Hypotheses_br_div__.html
-div_2_Each_stage_has__.html
 div_As_Every_action_has__.html
 div_A_Awareness_of_peace__.html
 div_Peace_is_not_a__.html
