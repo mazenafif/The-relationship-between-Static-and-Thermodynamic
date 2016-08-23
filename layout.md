@@ -3,7 +3,6 @@ Mazen_Ahmad_AfifSubstitute_teacher_Ministry__.html
 Hypotheses_1_Everything_has_a__.html
 div_As_Every_action_has__.html
 Chapter1_Awareness_of_peace_in__.html
-div_B_Awareness_mechanism_in__.html
 Chapter_2_Awareness_mechanism_indetermining__.html
 div_Some_of_these_acts__.html
 div_Thus_the_behavior_is__.html
