@@ -4,5 +4,4 @@ div_As_Every_action_has__.html
 Awareness_of_peace_in_terms__.html
 Awareness_mechanism_indetermining_human_behavior__.html
 div_Some_of_these_acts__.html
-div_Thus_the_behavior_is__.html
 Also_each_material_entropy_volumetric__.html
